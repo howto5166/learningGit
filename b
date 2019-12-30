@@ -1,1 +1,1 @@
-This is file b.
+This is file b. vim.
